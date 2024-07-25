@@ -8,3 +8,6 @@ __MACOSX
 # windows ignore
 Thumbs.db
 Desktop.ini
+
+# results folder
+results/
