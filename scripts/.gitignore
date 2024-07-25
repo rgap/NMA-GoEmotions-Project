@@ -1,0 +1,7 @@
+# macos ignore
+.DS_Store
+__MACOSX
+
+# windows ignore
+Thumbs.db
+Desktop.ini
